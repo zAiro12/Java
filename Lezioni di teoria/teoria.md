@@ -175,3 +175,13 @@ object hanno tre metodi:
 <br>
 
 ## **AIDS for IMPLEMENTATION**
+
+<br>
+
+# LEZIONE 15-11
+
+## RAGIONARE nell'**Astrazione dati**
+
+- correttezza: rispetta le premesse?
+    
+    usiamo l'induzione

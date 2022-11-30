@@ -185,3 +185,17 @@ object hanno tre metodi:
 - correttezza: rispetta le premesse?
     
     usiamo l'induzione
+
+<br>
+
+# LEZIONE 29-11
+
+## Ereditarietà
+
+è uno dei modi per ottenere **boh** 
+
+**DISPATHCING**: due momenti --> 
+- *compile time* : tipo apparente è il tipo definito nel codice o returnato da un metodo. Il compliatore può solo dedurre il tipo apparente, non lo sa
+
+- *run time* : tipo concreto. A partità di metodi, java sceglie quello che costa il minor numero di casting.
+*(un saluto a **Laura**)* :) :,( >:( :O :P ;) 😏 <3 :| :D :s :$ :* :blush: :fu: :broom:

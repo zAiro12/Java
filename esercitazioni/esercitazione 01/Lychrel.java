@@ -30,7 +30,7 @@ public class Lychrel {
         return n;
     }
 
-    void printLychrelSequence(long n){
+void printLychrelSequence(long n){
         while(!isPali(numToString(n))){
             System.out.println(n);
             n+=stringToNum(revesal(numToString(n)));
